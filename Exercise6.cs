@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BasicExercises
 {
-    class Exercise5
+    class Exercise6
     {
         static void Main(string[] args)
         {
@@ -22,6 +22,7 @@ namespace BasicExercises
             Console.WriteLine("Input the third number to multiply: ");
             no3 = int.Parse(Console.ReadLine());
             Console.WriteLine("Expected output: " + no1 + "*" + no2 + "*" + no3 + "=" + (no1 * no2 * no3));
+
 
             Console.ReadKey();
         }
