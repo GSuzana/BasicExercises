@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace BasicExercises
 {
-    class Exercise4
+    class Exercise5
     {
         static void Main(string[] args)
         {
-
             //Write a C# Sharp program to swap two numbers.
 
             int nr1, nr2, aux;
