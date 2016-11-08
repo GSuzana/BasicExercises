@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace BasicExercises
 {
-    class Exercise3
+    class Exercise4
     {
         static void Main(string[] args)
         {
-
             //Write a C# Sharp program to print the result of the specified operations.
 
             Console.WriteLine("Expected output:");
