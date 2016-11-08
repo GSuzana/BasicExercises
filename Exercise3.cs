@@ -6,14 +6,13 @@ using System.Threading.Tasks;
 
 namespace BasicExercises
 {
-    class Exercise2
+    class Exercise3
     {
         static void Main(string[] args)
         {
-
             //Write a C# Sharp program to print the result of dividing two numbers.
 
-            Console.WriteLine("The result of dividing two numbers  is: " + (23 / 10));
+            Console.WriteLine("The result of dividing two numbers is: " + (23 / 10));
 
             Console.ReadKey();
         }
