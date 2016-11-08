@@ -14,6 +14,8 @@ namespace BasicExercises
 
             Console.WriteLine("Hello:");
             Console.WriteLine("Garam Suzana!");
+
+            Console.ReadKey();
         }
     }
 }
