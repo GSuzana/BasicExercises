@@ -15,7 +15,7 @@ namespace BasicExercises
             //with no separation. 
 
             int numb;
-            Console.WriteLine("\n12. Enter the number: ");
+            Console.WriteLine("Enter the number: ");
             numb = int.Parse(Console.ReadLine());
             for (int i = 1; i <= 2; i++)
             {
